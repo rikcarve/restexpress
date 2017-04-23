@@ -1,0 +1,6 @@
+Apr 22, 2017 8:08:47 PM org.slf4j.impl.JCLLoggerAdapter info
+INFO: GET http://localhost:8080/fast responded with 200 OK in 17ms
+Apr 22, 2017 8:08:49 PM org.slf4j.impl.JCLLoggerAdapter info
+INFO: GET http://localhost:8080/fast responded with 200 OK in 2ms
+Apr 22, 2017 8:08:49 PM org.slf4j.impl.JCLLoggerAdapter info
+INFO: GET http://localhost:8080/fast responded with 200 OK in 3ms
